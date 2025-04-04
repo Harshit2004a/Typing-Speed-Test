@@ -9,4 +9,5 @@ Key Features:
 6. Restart Functionality: Retake the test anytime with a new sentence.
 
 This project is great for improving typing skills and practicing speed and accuracy in a fun way.
+
 Project by Harshit Kumar.
