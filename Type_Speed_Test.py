@@ -1,3 +1,9 @@
+# This is a simple typing speed test application using Tkinter.
+# It allows users to select a difficulty level and type a sentence.
+# The application calculates the typing speed in words per minute (WPM) and accuracy percentage.
+# The code is structured to be user-friendly and visually appealing with a dark theme.
+# Code by Harshit Kumar :)
+
 import customtkinter as ctk
 import time
 import random
